@@ -1,2 +1,2 @@
 # Kokoa Clone
-Clone coding of Kakaotalk 
+Clone coding Kakaotalk 
