@@ -1,3 +1,2 @@
-# Kokoa Clone 2020 Update
-
-HTML & CSS are so much fun!
+# Kokoa Clone
+Clone coding of Kakaotalk 
